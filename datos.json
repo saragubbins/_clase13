@@ -1,0 +1,110 @@
+[
+    {
+        "nombre": "HOLZWEILER",
+        "descripcion": "Primavera 2025 ready-to-wear",
+        "fecha": "2025",
+        "signo": "ready-to-wear",
+        "foto": "https://github.com/user-attachments/assets/42b22458-2c0f-4231-942d-e085e2b44fc3",
+        "fotos":["coleccion_tensoestuctura_1.jpg","coleccion_tensoestuctura_2.jpg","coleccion_tensoestuctura_3.jpg"],
+        "github": "https://github.com/saragubbins"
+    },
+    {
+        "nombre": "S.S DALEY",
+        "descripcion": "Primavera 2025 menswear",
+        "fecha": "2025",
+        "signo": "menswear",
+        "foto": "https://github.com/user-attachments/assets/5e64a1ff-8318-469b-b5a7-b31a52e286d5",
+        "fotos":["Colección-Planos-geometricos-1.jpg","Colección-Planos-geometricos-2.jpg","Colección-Planos-geometricos-3.jpg"],
+        "github": "https://github.com/saragubbins"
+    },
+    {
+        "nombre": "A.W.A.K.E. MODE",
+        "descripcion": "Primavera 2025 ready-to-wear",
+        "fecha": "2025",
+        "signo": "ready-to-wear",
+        "foto": "https://github.com/user-attachments/assets/05b12403-f124-4b2b-8a8a-dacc0cd42afb",
+        "fotos": ["Colección-Opazo-1.jpg","Colección-Opazo-2.jpg","Colección-Opazo-3.jpg"],
+        "github": "https://github.com/saragubbins"
+    },
+    {
+        "nombre": "RAHUL MISHRA AFEW",
+        "descripcion": "Primavera 2025 ready-to-wear",
+        "fecha": "2025",
+        "signo": "ready-to-wear",
+        "foto": "https://github.com/user-attachments/assets/f930eba8-80f8-417c-af63-809d7c889d4b",
+        "fotos": ["Punto-de-venta-CircularPet-1.jpg","Punto-de-venta-CircularPet-2.jpg","Punto-de-venta-CircularPet-3.jpg"],
+        "github": "https://github.com/saragubbins"
+    },
+    {
+        "nombre": "MSGM",
+        "descripcion": "Primavera 2025 ready-to-wear",
+        "fecha": "2022",
+        "signo": "ready-to-wear",
+        "foto": "https://github.com/user-attachments/assets/b6b000be-67bc-4d7a-a55e-79c859633857",
+        "fotos": ["La-Fábrica-de-Renca-1.jpg","La-Fábrica-de-Renca-2.jpg","La-Fábrica-de-Renca-3.jpg"],
+        "github": "https://github.com/saragubbins"
+    },
+    {
+        "nombre": "MERYLL ROGGE",
+        "descripcion": "Primavera 2025 ready-to-wear",
+        "fecha": "2025",
+        "signo": "ready-to-wear",
+        "foto": "https://github.com/user-attachments/assets/45574119-6329-4260-af71-00a2ec04d861",
+        "fotos": ["Taller-colaborativo-TINTA-1.jpg","Taller-colaborativo-TINTA-2.jpg","Taller-colaborativo-TINTA-3.jpg"],
+        "github": "https://github.com/saragubbins"
+    },
+    {
+        "nombre": "PRISCAVERA",
+        "descripcion": "Primavera 2025 ready-to-wear",
+        "fecha": "2022",
+        "signo": "ready-to-wear",
+        "foto": "https://github.com/user-attachments/assets/5e7858e6-50ef-4395-90c8-3adf7f281266",
+        "fotos": ["Lookbook-Gala-Diseño-1.jpg","Lookbook-Gala-Diseño-2.jpg","Lookbook-Gala-Diseño-3.jpg"],
+        "github": "https://github.com/saragubbins"
+    },
+    {
+        "nombre": "SEA",
+        "descripcion": "Primavera 2025 ready-to-wear",
+        "fecha": "2025",
+        "signo": "ready-to-wear",
+        "foto": "https://github.com/user-attachments/assets/7112deec-18d9-428b-96de-0707faaaf42c",
+        "fotos": ["Sistema-gráfico-Emanuele-Coccia-1.jpg","Sistema-gráfico-Emanuele-Coccia-2.jpg","Sistema-gráfico-Emanuele-Coccia-3.jpg"],
+        "github": "https://github.com/saragubbins"
+    },
+    {
+        "nombre": "ZOE GUSTAVIA",
+        "descripcion": "Primavera 2025 ready-to-wear",
+        "fecha": "2025",
+        "signo": "ready-to-wear",
+        "foto": "https://github.com/user-attachments/assets/5467b2bd-b364-494a-81ec-4e24679fba09",
+        "fotos": ["Boletín-Noticias-Diseño-UC-1.jpg","Boletín-Noticias-Diseño-UC-2.jpg","Boletín-Noticias-Diseño-UC-3.jpg"],
+        "github": "https://github.com/saragubbins"
+    },
+    {
+        "nombre": "MARKARIAN",
+        "descripcion": "Primavera 2025 ready-to-wear",
+        "fecha": "2025",
+        "signo": "ready-to-wear",
+        "foto": "https://github.com/user-attachments/assets/6e64b1ee-66a6-4758-8250-d970333d78f9",
+        "fotos": ["Feria-SIstema-x-Diseño-UC-1.jpg","Feria-SIstema-x-Diseño-UC-2.jpg","Feria-SIstema-x-Diseño-UC-3.jpg"],
+        "github": "https://github.com/saragubbins"
+    },
+    {
+        "nombre": "STINE GOYA",
+        "descripcion": "Primavera 2025 ready-to-wear",
+        "fecha": "2025",
+        "signo": "ready-to-wear",
+        "foto": "https://github.com/user-attachments/assets/5e59ce89-1c7e-4a53-b504-1976f606a7f5",
+        "fotos": ["Fiore-1.jpg","Fiore-2.jpg","Fiore-3.jpg"],
+        "github": "https://github.com/saragubbins"
+    },
+    {
+        "nombre": "SMIKHAI",
+        "descripcion": "Otoño 2024 ready-to-wear",
+        "fecha": "2024",
+        "signo": "ready-to-wear",
+        "foto": "https://github.com/user-attachments/assets/5e59ce89-1c7e-4a53-b504-1976f606a7f5",
+        "fotos": ["Chapitas-Diseño-UC-1.jpg","Chapitas-Diseño-UC-2.jpg","Chapitas-Diseño-UC-3.jpg"],
+        "github": "https://github.com/saragubbins"
+    }
+]
