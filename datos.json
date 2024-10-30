@@ -104,7 +104,7 @@
         "fecha": "2024",
         "signo": "ready-to-wear",
         "foto": "https://raw.githubusercontent.com/saragubbins/_clase13/refs/heads/main/img/portada12.jpg",
-        "fotos": ["coleccion12-1.jpg", "coleccion12-2.jpg", "coleccion12-3.jpg"]
+        "fotos": ["coleccion12-1.jpg", "coleccion12-2.jpg", "coleccion12-3.jpg"],
         "github": "https://github.com/saragubbins"
     }
 ]
