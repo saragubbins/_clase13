@@ -4,7 +4,7 @@
         "descripcion": "Primavera 2025 ready-to-wear",
         "fecha": "2025",
         "signo": "ready-to-wear",
-        "foto": "https://github.com/saragubbins/_clase13/blob/main/img/portada1.jpg?raw=true",
+        "foto": "https://raw.githubusercontent.com/saragubbins/_clase13/refs/heads/main/img/portada1.jpg",
         "fotos": ["coleccion1-1.jpg", "coleccion1-2.jpg", "coleccion1-3.jpg"],
         "github": "https://github.com/saragubbins"
     },
